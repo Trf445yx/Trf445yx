@@ -1,4 +1,4 @@
-## Olá eu sou o Eduardo Modenes, criadora de conteúdo de programação e tecnologia!
+## Olá eu sou o Eduardo Modenes, criador de conteúdo de programação e tecnologia!
 
 - 🌱 Developer.
 - 😄 Pronouns: ele/eles.
