@@ -13,8 +13,6 @@
   <img align="center" alt="Aleiros-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
-  ##
-  
 <h2>Rede social</h2>
 <div>
 <a href="https://instagram.com/ed_modenes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
